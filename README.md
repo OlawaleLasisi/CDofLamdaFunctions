@@ -143,4 +143,4 @@ Navigate to CloudFormation
 Click on Stacks to get the list of stacks.
 Find the stack that was created by the CodePipeline.
 Click the radio button next to it and click Delete.
-Make changes to the pipeline and try again.
+Make changes to the pipeline and try again
